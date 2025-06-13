@@ -1,4 +1,4 @@
-# `Hashdrive1`
+# `Hashdrive`
 
 Admin can upload a jpeg image of the certificate, a hash is computed of the image data and used to
 regester it as a valid certificate on ICP blockchain. Concerned party can verify the
